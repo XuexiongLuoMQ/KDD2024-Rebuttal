@@ -50,8 +50,8 @@
 |----------------|------------------------------------------------------------------------------------------------------------------------|
 | IBGNN          | Visuo-motor coordination, superior temporal gyrus,  subdivision of retrosplenial cortex, and dorsal entorhinal cortex. |
 | GIB            | Inferior temporal gyrus, ventromedial prefrontal cortex,  fusiform gyrus, and broca's area.                            |
-| BrainEX (Ours) | Secondary visual cortex, visuo-motor coordination and orbitofrontal area.                                              |
-| **Analysis**   | Existing findings: abnormal visual processing areas. Our interpretation results include more related areas.            |
+| BrainEX (Ours) | Secondary visual cortex, visuo-motor coordination, and orbitofrontal area.                                              |
+| **Analysis**   | Existing findings: Abnormal visual processing areas. Our interpretation results include more related areas.            |
 
 
 
@@ -60,7 +60,7 @@
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | IBGNN          | Middle frontal gyrus, orbital middle frontal gyrus, insula,  middle occipital gyrus, and superior temporal gyrus.                                   |
 | GIB            | Precentral gyrus, medial and lateral cingulate gyrus, hippocampus, and angular gyrus.                                                               |
-| BrainEX (Ours) | Inferior frontal gyrus, medial and lateral cingulate gyrus,  and cuneus, superior temporal gyrus, thalamus.                                         |
-| **Analysis**   | Existing findings: thalamus, cortex, cingulate gyrus, amygdala, cerebellum. Interpretation results of BrainEx and GIB are closer to the findings.   |
+| BrainEX (Ours) | Inferior frontal gyrus, medial and lateral cingulate gyrus,  and cuneus, superior temporal gyrus, and thalamus.                                         |
+| **Analysis**   | Existing findings: Thalamus, cortex, cingulate gyrus, amygdala, and cerebellum. Interpretation results of BrainEx and GIB are closer to the findings.   |
 
 **Conclusion**: In summary, the interpretable results provided by our method are better than other baselines and are closer to the existing findings. Here we spend much time providing salient brain region analysis, and the abnormal connection analysis still needs more time in traceability analysis, so it is not provided.
